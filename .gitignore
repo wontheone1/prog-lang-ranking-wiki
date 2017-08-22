@@ -1,5 +1,5 @@
 .idea/*
-*.dat
+/src/main/resources/wikipedia/wikipedia.dat
 *.iml
 *target*
 target/*
